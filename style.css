@@ -11,18 +11,21 @@ button{
 background-color: darkblue;
 color: cornflowerblue;
 font-family: "Bai Jamjuree", sans-serif;
- 
+}
 .passo {
 display : nome;
 
 }
 
 .passo.ativo {
- 
-    
+ display: block;
+}
 
+main { 
+    text-align: center;
+    max-width
 }
-}
+
 
 
 
